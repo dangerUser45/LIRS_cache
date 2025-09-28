@@ -1,2 +1,2 @@
-# Cache
-Implementation of own cache
+# Low-inference recency set (LIRS) Cache
+Implementation of own LIRS cache
